@@ -1,6 +1,6 @@
 # Maven Roasters 2023 Sales Analysis Report
 - **Author:** Maher Mahmoud Maher
-- **Date:** 28/09/2024
+- **Date:** 29/09/2024
 
 ![Visualization 1](MavenRoasters_Dashboard.png)
 
@@ -39,9 +39,7 @@ The analysis revealed several key insights related to the sales performance of M
 **Data Source:**  
 The original dataset consisted of 140,000 records covering a 6-month period. Data augmentation was performed to expand the dataset to over 1 million records, covering full 4 years from 01/01/2020 to 31/12/2023.
 
-**Used Augmented-Dataset Link:** <br>[https://www.mediafire.com/file/m4vj72hiyhnpl8e/augmented_coffee_shop_sales.csv](https://www.mediafire.com/file/m4vj72hiyhnpl8e/augmented_coffee_shop_sales.csv)<br>
-**Original Dataset Link:** <br>[https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales/data](https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales/data)
-
+**Used DATABASE Link:** [https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales/data](https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales/data)
 
 **Data Overview:**  
 - **Variables:** The dataset includes variables such as :
